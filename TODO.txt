@@ -1,0 +1,5 @@
+This file can be used to express the ideas to pursue next or things about the work that has been done:
+
+Need to implement:
+1) Dynamics for simulation of the proposed model and test it under MC
+2)VolGAN 
